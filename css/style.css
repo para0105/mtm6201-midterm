@@ -188,7 +188,7 @@ section.four-img {
 
 section.two-blogk {
     padding: 80px 0px;
-    background-image: url(../1.jpg);
+    background-image: url(../images/1.jpg);
     background-size: 100%;
 }
 
@@ -199,7 +199,7 @@ section.two-blogk {
 section.counter {
     margin: 60px 0px;
     padding: 60px 0px;
-    background: url(../f.jpg);
+    background: url(../images/f.jpg);
     background-size: 100%;
 }
 
@@ -218,7 +218,7 @@ section.counter .col-lg-4 {
 }
 footer {
     padding: 60px 0px;
-    background: url(../footer.jpg);
+    background: url(../images/footer.jpg);
     background-size: cover;
 }
 .price hr {
@@ -264,7 +264,7 @@ footer {
 .form {
     text-align: center;
     padding: 105px 0px;
-    background-image: url(../form.jpg);
+    background-image: url(../images/form.jpg);
     background-size: cover;
     margin: 60px 0px 0;
 }
@@ -342,7 +342,7 @@ footer ul li a {
 }
 
 .about {
-    background-image: url(../slider.jpg);
+    background-image: url(../images/slider.jpg);
 	position:relative;
 }
 .counter-section {
@@ -360,7 +360,7 @@ footer ul li a {
     font-family: Times New Roman, serif;
 }
 .product {
-    background-image: url(../products/page-header.jpg);
+    background-image: url(../images/products/page-header.jpg);
 	position: relative;
 }
 .gallery-box img {
@@ -370,7 +370,7 @@ footer ul li a {
     margin-bottom: 15px;
 }
 .gallery {
-    background-image: url(../gallery/bg.jpg);
+    background-image: url(../images/gallery/bg.jpg);
     position: relative;
     background-position: top center;
     background-repeat: no-repeat;
@@ -378,7 +378,7 @@ footer ul li a {
 }
 
 .counter-section {
-    background-image: url(../gallery/bg-2.jpg);
+    background-image: url(../images/gallery/bg-2.jpg);
     position: relative;
     background-position: center center;
     background-repeat: no-repeat;
@@ -434,23 +434,23 @@ footer ul li a {
 }
 
 .contact {
-	    background-image: url(../parallax-11.jpg);
+	    background-image: url(../images/parallax-11.jpg);
 	position:relative;
 }
 
 .staff {
     padding: 60px 0;
-    background: url(../parallax-8.jpg);
+    background: url(../images/parallax-8.jpg);
 	position:relative;
 }
 .staff-desc {
 	position:relative;
 }
 .c1 {
-	    background: url(../c-1.jpg);
+	    background: url(../images/c-1.jpg);
 }
 .c2 {
-	    background: url(../gallery-6.jpg);
+	    background: url(../images/gallery-6.jpg);
 }
 .box {
     padding: 44px 40px 50px 40px;
